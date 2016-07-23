@@ -3,10 +3,14 @@
 	"EngineAssociation": "4.11",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "Substance",
-			"Enabled": true
+			"Name": "MissingUE4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
