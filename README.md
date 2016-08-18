@@ -1,2 +1,3 @@
 # game
-All stuff about the project. Content later ;)
+
+Old version. Get the link for new repo from Justin
